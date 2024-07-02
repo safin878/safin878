@@ -1,4 +1,4 @@
- ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+ ![logo](https://i.postimg.cc/4dzkbKbz/1714645446670.jpg)
 <h1 align="center">Hi 👋, I'm Sayed Uddin Mahamud Safin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
