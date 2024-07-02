@@ -7,8 +7,8 @@
 ### My GitHub Stats:
 
 
+<!--<p align="center">&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=safin878&show_icons=true&locale=en" alt="safin878" /></p> -->
 
-<p align="center">&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=safin878&show_icons=true&locale=en" alt="safin878" /></p>
 
 <p align="center"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=safin878&" alt="safin878" /></p>
 
