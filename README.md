@@ -1,6 +1,6 @@
  ![logo](https://i.postimg.cc/4dzkbKbz/1714645446670.jpg)
 <h1 align="center">Hi 👋, I'm Sayed Uddin Mahamud Safin</h1>
-<h4 align="center">I’m a Junior Frontend/React Developer with over 2 years of experience in crafting modern and user-friendly web applications. I’m passionate about building interfaces that not only look good but also provide a seamless user experience.</h4>
+<h4 align="center">I’m a Frontend/React Developer with over 2 years of experience in crafting modern and user-friendly web applications. I’m passionate about building interfaces that not only look good but also provide a seamless user experience.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safin878&label=Profile%20views&color=0e75b6&style=flat" alt="safin878" /> </p>
 
