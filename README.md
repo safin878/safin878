@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/4dzkbKbz/1714645446670.jpg" width="150" alt="logo" />
+  <img src="https://i.postimg.cc/4dzkbKbz/1714645446670.jpg" alt="Safin's Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sayed Uddin Mahamud Safin</h1>
@@ -18,10 +18,10 @@
 
 ### 🧠 About Me:
 
-- 🔭 I’m currently building modern web applications with React.js,TypeScript & Next.js  
+- 🔭 I’m currently building modern web applications with React.js & Next.js  
 - 🌱 I’m learning TypeScript, DevOps, and AI-enhanced web development  
 - 💬 Ask me about React, Tailwind CSS, Firebase, and clean UI architecture  
-- 📫 How to reach me: **safin.mdsafib@gmail.com**  
+- 📫 How to reach me: **shafin1680@gmail.com**  
 - ⚡ Fun fact: I love coding so much, I Love, Eat, and Drink Code! 😄
 
 ---
@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safin878&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=safin878&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
