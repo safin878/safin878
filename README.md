@@ -44,6 +44,9 @@
   <img src="https://streak-stats.demolab.com?user=safin878&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<img src="https://streak-stats.demolab.com?user=safin878&theme=tokyonight&hide_border=true" />
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safin878&show_icons=true&theme=tokyonight&hide_border=true" alt="Safin's GitHub Stats" />
